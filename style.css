@@ -66,3 +66,16 @@ div{
   gap: 2rem;
   max-width: 100%;
 }
+img{
+width: 75px;
+height: 75px;
+border-radius: 50px;
+}
+video{
+width: 50%;
+
+height: 208px;
+border: none;
+border-radius: 8px;
+margin-top: 10px;
+}
