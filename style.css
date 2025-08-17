@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {
 margin: 0;
@@ -79,3 +80,86 @@ border: none;
 border-radius: 8px;
 margin-top: 10px;
 }
+=======
+
+body {
+margin: 0;
+background-color: #f4f4f4;
+color: #333;
+line-height: 1.6;
+}
+header{
+background-color: #1b1f3b;   
+ color: white;
+padding: 20px;
+text-align: center;
+}
+nav a {
+color: white;
+margin: 0 15px;
+text-decoration: none;
+font-weight: bold;
+}
+section {
+
+padding: 20px;
+max-width: 800px;
+margin: auto;
+background: white;
+margin-top: 20px;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+footer {
+text-align: center;
+padding: 20px;
+background-color: #0b4b8e;
+font-size: 0.9rem;
+}
+ frame{  
+width: 50%;
+max-width: 600px;
+text-align: center;
+height: 315px;
+border: none;
+border-radius: 8px;
+margin-top: 10px;
+}
+ button{
+padding: 12px 24px;
+margin: 10px;
+background-color: #0b4b80;
+color: white;
+border-radius: 8px;
+cursor: pointer;
+
+  }
+  /*===blogs.html===*/
+ div{
+  padding: 2rem;
+  
+  gap: 2rem;
+  max-width: 100%;
+
+ } 
+/*===index.html*/
+div{
+  padding: 2rem;
+  
+  gap: 2rem;
+  max-width: 100%;
+}
+img{
+width: 75px;
+height: 75px;
+border-radius: 50px;
+}
+video{
+width: 50%;
+
+height: 208px;
+border: none;
+border-radius: 8px;
+margin-top: 10px;
+}
+>>>>>>> b99daec (Added images and videos folders to the project)
